@@ -1,0 +1,58 @@
+/* Home.css */
+
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+
+.home-container h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.home-container p {
+  font-size: 24px;
+  line-height: 1.5;
+}
+.skills {
+    padding: 50px;
+    background-color: #f7f7f7;
+  }
+  
+  .section-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .skillset {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .skill {
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .skill-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .skill-desc {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.5;
+  }
+  div{
+    background-color: rgb(166, 214, 244);
+font-style:unset;
+  }
+  
